@@ -78,3 +78,10 @@ Screenshot
 
 ![sample screenshot with and without color](samples/sample.png?raw=true "Sample screenshot with and without color")
 
+
+Limitation
+==========
+
+My util absolutly not filter all possible ANSI color sequence.
+Filtering the whole possible ANSI sequence is probably more [difficult](https://en.wikipedia.org/wiki/ANSI_escape_code).
+
