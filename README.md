@@ -101,3 +101,8 @@ $ ls -l --color=always | nocolor
 $ echo abc | grep --color=always b | nocolor
 ```
 
+Screenshot
+==========
+
+![sample screenshot with and without color](samples/sample.png?raw=true "Sample screenshot with and without color")
+
